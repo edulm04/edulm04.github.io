@@ -12,12 +12,14 @@ body{
 
 
 header{
+    
     display: flex;
     min-height: 70px;
     background-color: powderblue;
     justify-content: space-between;
     align-items: center;
     padding: 10px;
+    
 }
 
 .logo img{
@@ -97,6 +99,7 @@ span{
     justify-content: space-between;
     padding: 20px;
     align-items: center     ;
+    position: fixed;
 
 
 }
